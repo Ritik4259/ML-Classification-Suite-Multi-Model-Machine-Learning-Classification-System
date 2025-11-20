@@ -43,6 +43,7 @@ This project solves the problem of understanding **which model works best for wh
 ---
 
 ## System Architecture
+```
 
                 ┌───────────────────────┐
                 │      Dataset Loader   │
@@ -66,7 +67,7 @@ This project solves the problem of understanding **which model works best for wh
              │ Model Metrics  │  │ Visualization    │
              └────────────────┘  └──────────────────┘
 
-
+```
 ---
 
 ## Features
